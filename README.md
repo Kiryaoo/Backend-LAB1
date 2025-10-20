@@ -46,7 +46,7 @@ Main Page:
 
 Expected response: 
 ```
-<p>Hello, World!</p>
+Hello, World!
 ```
 Healthcheck:
 
