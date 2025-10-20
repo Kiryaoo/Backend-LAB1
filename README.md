@@ -44,8 +44,10 @@ Main Page:
 
 - http://localhost:8000/
 
-Expected response: <p>Hello, World!</p>
-
+Expected response: 
+```
+<p>Hello, World!</p>
+```
 Healthcheck:
 
 - http://localhost:8000/healthcheck
